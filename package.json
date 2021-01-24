@@ -1,0 +1,16 @@
+{
+  "name": "ex1",
+  "version": "1.0.0",
+  "main": "ex1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^15.4.0",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {},
+  "description": ""
+}
